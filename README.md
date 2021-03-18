@@ -1,1 +1,1 @@
-# Data_Structures_-_Algorithms
+Solutions for Data Structures and Algorithms project
